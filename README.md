@@ -29,7 +29,7 @@ Bolt Stream is an innovative movie streaming website crafted with the robust Lar
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ajulkjose246/bolt-stream.git
+    git clone https://github.com/ajulkjose246/bolt_stream_laravel.git
     ```
 
 2. Navigate to the project directory:
