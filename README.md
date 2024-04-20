@@ -35,7 +35,7 @@ Bolt Stream is an innovative movie streaming website crafted with the robust Lar
 2. Navigate to the project directory:
 
     ```bash
-    cd bolt-stream
+    cd bolt_stream_laravel
     ```
 
 3. Install PHP dependencies:
