@@ -2,6 +2,13 @@
 
 Bolt Stream is an innovative movie streaming website crafted with the robust Laravel framework. This platform stands out by offering a seamless streaming experience, allowing users to enjoy a wide array of films and series across different genres.
 
+# Bolt Stream: Screenshots
+
+![Screen Shot](https://firebasestorage.googleapis.com/v0/b/bolt-stream-87d09.appspot.com/o/ScreenShots%2FScreenshot%20from%202023-04-16%2018-16-48.png?alt=media&token=fc692e71-a418-4bbe-92fe-f6a7e02b77cd
+)
+![Screen Shot](https://firebasestorage.googleapis.com/v0/b/bolt-stream-87d09.appspot.com/o/ScreenShots%2FScreenshot%20from%202023-04-16%2018-32-18.png?alt=media&token=070066ad-0ae1-4147-b499-fac9534af167
+)
+
 ## Technical Highlights
 
 - **Framework:** Utilizes Laravel, known for its elegant syntax and expressive, scalable architecture.
